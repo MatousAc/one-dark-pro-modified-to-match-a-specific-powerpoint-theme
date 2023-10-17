@@ -3,6 +3,7 @@
   "displayName": "One Dark Pro Modified to Match a Specific PowerPoint theme",
   "description": "This theme matches the colors in the visually appealing Programming Language Workshop for Beginners theme available here: https://slidesgo.com/theme/programming-language-workshop-for-beginners#search-Programming&position-2&results-63 You can also easily remove error squiggles so that taking screenshots of incomplete code is easier.",
   "version": "0.0.1",
+  "publisher": "matousac",
   "repository": "https://github.com/MatousAc/one-dark-pro-modified-to-match-a-specific-powerpoint-theme.git",
   "engines": {
     "vscode": "^1.83.0"
